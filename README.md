@@ -14,7 +14,7 @@ The task is to find their comparison points by comparing a[0] with b[0], a[1] wi
 
 Given a and b, determine their respective comparison points.
 
-###Example:
+- *Example:*
 
 a = [1, 2, 3]
 b = [3, 2, 1]

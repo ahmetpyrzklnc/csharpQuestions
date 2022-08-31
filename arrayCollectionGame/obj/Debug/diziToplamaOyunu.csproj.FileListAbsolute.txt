@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\csharpconsole\ConsoleQuestions\diziToplamaOyunu\obj\Debug\diziToplamaOyunu.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\csharpconsole\ConsoleQuestions\diziToplamaOyunu\obj\Debug\diziToplamaOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\csharpconsole\ConsoleQuestions\diziToplamaOyunu\obj\Debug\diziToplamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\csharpconsole\ConsoleQuestions\diziToplamaOyunu\bin\Debug\diziToplamaOyunu.exe.config
+C:\Users\ahmet\source\repos\csharpconsole\ConsoleQuestions\diziToplamaOyunu\bin\Debug\diziToplamaOyunu.exe
+C:\Users\ahmet\source\repos\csharpconsole\ConsoleQuestions\diziToplamaOyunu\bin\Debug\diziToplamaOyunu.pdb
+C:\Users\ahmet\source\repos\csharpconsole\ConsoleQuestions\diziToplamaOyunu\obj\Debug\diziToplamaOyunu.exe
+C:\Users\ahmet\source\repos\csharpconsole\ConsoleQuestions\diziToplamaOyunu\obj\Debug\diziToplamaOyunu.pdb
